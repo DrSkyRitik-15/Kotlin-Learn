@@ -1,5 +1,5 @@
 fun main(){
-val jk=::function    // always know the ::   double collan button
+val jk=::function    // always mention the ::   double collan button
 println(jk(5,6))
 
 
